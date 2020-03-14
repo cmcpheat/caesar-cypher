@@ -1,2 +1,7 @@
-# caesar-cypher-assignment
-Caesar cypher assignment for software engineering practice - year 3. 
+# caesar-cypher
+
+C++ application.
+
+Cypher which performs encryption and decryption of messages entered into the console using the Caesar cypher methodology.
+
+https://en.wikipedia.org/wiki/Caesar_cipher
